@@ -1,3 +1,5 @@
+# 21.09.2024
+
 # Campaign Copy Automation (Selenium & Python)
 
 Dieses Projekt automatisiert die Anmeldung und das Kopieren von Kampagnen innerhalb eines internen Web-Portals.  
